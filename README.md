@@ -1,4 +1,6 @@
-# Soulseek NodeJS client
+<h1 align="center">Soulseek NodeJS client</h1>
+
+###
 
 <img align="right" src="https://fruitice.fr/logo-slsk.png"/>
 
