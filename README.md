@@ -1,12 +1,11 @@
 <h1 align="center">Soulseek NodeJS client</h1>
 
-###
+<img align="center" src="https://fruitice.fr/logo-slsk.png"/>
 
-<img align="right" src="https://fruitice.fr/logo-slsk.png"/>
-
-[![Build Status](https://travis-ci.org/f-hj/slsk-client.svg?branch=master)](https://travis-ci.org/f-hj/slsk-client)
+[![Build Status](https://travis-ci.org/RetrogisusDEV/slsk-client-forked.svg?branch=master)](https://travis-ci.org/RetrogisusDEV/slsk-client-forked)
+[![BuildDev](https://travis-ci.org/RetrogisusDEV/slsk-client-forked.svg?branch=dev)](https://travis-ci.org/RetrogisusDEV/slsk-client-forked)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-[![GitHub stars](https://img.shields.io/github/stars/f-hj/slsk-client.svg)](https://github.com/f-hj/slsk-client/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/RetrogisusDEV/slsk-client-forked.svg)](https://github.com/RetrogisusDEV/slsk-client-forked/stargazers)
 
 Repo original : https://github.com/f-hj/slsk-client
 
