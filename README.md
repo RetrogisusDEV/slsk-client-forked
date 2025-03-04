@@ -8,6 +8,8 @@
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![GitHub stars](https://img.shields.io/github/stars/f-hj/slsk-client.svg)](https://github.com/f-hj/slsk-client/stargazers)
 
+Repo original : https://github.com/f-hj/slsk-client
+
 ## Before starting
 
 You must already have a Soulseek account before using this module.
